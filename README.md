@@ -1,1 +1,1 @@
-# COMP367AzureProject
+# COMP367AzureDevOps
