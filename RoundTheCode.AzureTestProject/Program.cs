@@ -34,3 +34,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// Add the message to this C# code
+Console.WriteLine("Database access has already been done on April 1, 2025 by Seyeon Jo");
